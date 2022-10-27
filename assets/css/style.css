@@ -1,0 +1,262 @@
+nav{
+	background-color: #2e3192;
+	color: white;
+
+}
+
+.nav-bar{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.links ul li{
+	display: inline;
+}
+
+.links ul li a{
+	color: white;
+	text-decoration: none;
+	padding: 0 15px 0 15px;
+}
+
+.links{
+	margin-top: 15px;
+}
+
+.links i{
+	padding-right: 15px;
+}
+
+.logo{
+	background-image: url('../img/niza.png');
+	background-size: contain;
+	height: 3vh;
+	width: 100px;
+	background-repeat: no-repeat;
+}
+
+.home{
+	background-image: url('../img/home.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	color: white;
+}
+
+.home h1{
+	font-size: 70px;
+	padding-top: 285px;
+	color: #05053c;
+	margin-left: 190px;
+}
+
+.home h4{
+	color: #f80914;
+	margin-left: 190px;
+}
+
+.home h4 span{
+	color: #05053c;
+	margin-left: 0px;
+}
+
+.home .hireme{
+	background-color: #05053c;
+	border-color: #05053c;
+	margin-left: 190px;
+}
+
+.about{
+	height: 700px;
+	padding-top: 40px;
+}
+
+.red{
+	width: 85px;
+	height: 5px;
+	background-color: #f80914;
+	margin-bottom: 30px;
+}
+
+.picture{
+	background-image: url('../img/nizanel.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 80vh;
+	color: white;
+	margin-bottom: 20px;
+}
+
+.description li{
+	font-size: 23px;
+	padding: 10px 0 20px 0;
+	list-style: none;
+}
+
+.description i{
+	padding-right: 15px;
+	color: #f80914;;
+}
+
+.facts{
+	height: 400px;
+	padding-top: 40px;
+}
+
+.red1{
+	width: 85px;
+	height: 5px;
+	background-color: #f80914;
+	margin-bottom: 30px;
+}
+
+.description1{
+	font-size: 23px;
+	list-style: none;
+}
+
+.description1 li{
+	font-size: 23px;
+	padding: 10px 0 20px 0;
+	list-style: none;
+}
+
+.description1 i{
+	padding-right: 15px;
+	color: #f80914;
+}
+
+.resume{
+	height: 750px;
+	padding-top: 40px;
+}
+
+.red2{
+	width: 85px;
+	height: 5px;
+	background-color: #f80914;
+	margin-bottom: 30px;
+}
+
+.description2{
+	font-size: 23px;
+	list-style: none;
+}
+
+.description2 li{
+	font-size: 23px;
+	padding: 10px 0 20px 0;
+	list-style: none;
+}
+
+.description2 i{
+	padding-right: 15px;
+	color: #f80914;;
+}
+
+.des2 li{
+	font-size: 23px;
+	padding: 10px 0 20px 0;
+	list-style: none;
+	margin-left: 40px;
+	margin-top: -15px;
+}
+
+.resume h3{
+	margin-left: 40px;
+}
+
+.services{
+	background-image: url('../img/resume.png');
+	background-repeat: no-repeat;
+	padding-top: 15px;
+	background-size: cover;
+	padding-bottom: 15px;
+}
+
+.services h1{
+	margin-left: 450px;
+}
+
+
+.description3{
+	font-size: 23px;
+	list-style: none;
+}
+
+.description3 li{
+	font-size: 23px;
+	padding: 10px 0 20px 0;
+	list-style: none;
+	margin-left: 30px;
+}
+
+.description3 i{
+	padding-right: 15px;
+	color: #f80914;
+}
+
+.portfolio{
+	background-image: url('../img/portfolio.png');
+	background-repeat: no-repeat;
+	padding-top: 15px;
+	height: 70vh;
+
+}
+
+.portfolio h1{
+	margin-left: 450px;
+}
+
+
+.pic{
+	background-image: url('../img/3.jpeg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 45vh;
+	margin-top: 30px;
+	margin-left: -5px;
+}
+
+.pic2{
+	background-image: url('../img/2.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 45vh;
+	margin-top: -297px;
+	margin-left: 570px;
+}
+
+.contact {
+	height: 400px;
+    background-color: white;
+    padding-top: 15px;
+}
+
+.contact h1{
+	margin-left: 450px;
+}
+
+.des4{
+	margin-top: -15px;
+}
+
+.des4 ul li{
+	color: black;
+	list-style: none;
+	padding-left: 30px;
+	font-size: 25px;
+	font-family: arial;
+	margin: 10px 10px 10px 10px;
+}
+
+.des4 i {
+	padding-right: 10px;
+	color: #f80914;
+}
+
+
+.row{
+	margin-top: 35px;
+}
